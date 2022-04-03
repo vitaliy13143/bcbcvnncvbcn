@@ -1,1 +1,1 @@
-<center>Привіт світ <center>
+<center><b>Привіт світ <b> <center>
